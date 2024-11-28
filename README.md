@@ -23,9 +23,9 @@
 This repository contains the code, data processing scripts, machine learning models, and dashboards used in the project. The insights gained can serve as a framework for addressing customer retention challenges in telecom and similar industries.
 
 ## Repository Contents
-- `data/': Data preprocessing scripts and raw/processed datasets.
-- 'notebooks/': Jupyter notebooks for EDA and model development.
-- 'models/': Trained machine learning models and scripts for evaluation.
-- 'dashboards/': Code for interactive churn analysis dashboards.
-- 'reports/': Detailed analysis and findings presented for stakeholders.
-- 'README.md': Overview of the project and usage instructions.
+- `data/`: Data preprocessing scripts and raw/processed datasets.
+- `notebooks/`: Jupyter notebooks for EDA and model development.
+- `models/`: Trained machine learning models and scripts for evaluation.
+- `dashboards/`: Code for interactive churn analysis dashboards.
+- `reports/`: Detailed analysis and findings presented for stakeholders.
+- `README.md`: Overview of the project and usage instructions.

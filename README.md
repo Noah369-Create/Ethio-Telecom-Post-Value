@@ -6,19 +6,33 @@
 ## Key highlights of the project include:
 
 ### Data Collection and Integration
-- Consolidated customer data from multiple sources, including service usage logs, billing records, and CRM systems.
+- Consolidated customer data from multiple sources:
+-  including service usage logs
+-  billing records, and
+-  CRM systems.
 ### Exploratory Data Analysis (EDA):
-- Conducted comprehensive analysis to uncover churn trends, usage behaviors, and correlations with new services.
+- Conducted comprehensive analysis to uncover:
+- churn trends,
+- usage behaviors, and
+- correlations with new services.
 ### Predictive Modeling:
-- Built machine learning models to accurately predict customers at high risk of churning.
+- Built machine learning models to:
+- accurately predict customers at high risk of churning.
 ### Customer Segmentation:
-- Grouped customers based on churn risk and engagement with value-added services to enable targeted interventions.
+- Grouped customers:
+- based on churn risk and
+- engagement with value-added services to enable targeted interventions.
 ### Retention Strategy Development:
-- Proposed and evaluated data-driven strategies, such as personalized offers and loyalty rewards, to reduce churn rates.
+- Proposed and evaluated data-driven strategies,
+- such as personalized offers and
+- loyalty rewards, to reduce churn rates.
 ### Business Impact Measurement:
-- Analyzed the effectiveness of value-added services in improving retention and increasing overall customer lifetime value.
+- Analyzed the effectiveness of value-added services in:
+- improving retention and
+- increasing overall customer lifetime value.
 ### Visualization and Reporting:
-- Designed interactive dashboards and detailed reports for stakeholders to support strategic decision-making.
+- Designed interactive dashboards and
+- detailed reports for stakeholders to support strategic decision-making.
 
 This repository contains the code, data processing scripts, machine learning models, and dashboards used in the project. The insights gained can serve as a framework for addressing customer retention challenges in telecom and similar industries.
 
